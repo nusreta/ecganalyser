@@ -1,0 +1,60 @@
+D:\Projects\EKGSistem\EKGSistem\bin\Debug\EKGSistem.exe
+D:\Projects\EKGSistem\EKGSistem\bin\Debug\EKGSistem.pdb
+D:\Projects\EKGSistem\EKGSistem\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Form1.resources
+D:\Projects\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Properties.Resources.resources
+D:\Projects\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.exe
+D:\Projects\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.pdb
+C:\Users\User\Desktop\BSS Seminarski\BSS Seminarski\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.exe
+C:\Users\User\Desktop\BSS Seminarski\BSS Seminarski\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.pdb
+C:\Users\User\Desktop\BSS Seminarski\BSS Seminarski\EKGSistem\EKGSistem\bin\Debug\EKGSistem.exe
+C:\Users\User\Desktop\BSS Seminarski\BSS Seminarski\EKGSistem\EKGSistem\bin\Debug\EKGSistem.pdb
+C:\Users\User\Desktop\BSS Seminarski\BSS Seminarski\EKGSistem\EKGSistem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\BSS Seminarski\BSS Seminarski\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Form1.resources
+C:\Users\User\Desktop\BSS Seminarski\BSS Seminarski\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Properties.Resources.resources
+C:\Users\User\Desktop\BSS Seminarski\BSS Seminarski\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\BSS Seminarski\BSS Seminarski\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nedim\Desktop\BSS_Projekat_stari\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.exe
+C:\Users\Nedim\Desktop\BSS_Projekat_stari\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.pdb
+C:\Users\Nedim\Desktop\BSS_Projekat_stari\EKGSistem\EKGSistem\bin\Debug\EKGSistem.exe
+C:\Users\Nedim\Desktop\BSS_Projekat_stari\EKGSistem\EKGSistem\bin\Debug\EKGSistem.pdb
+C:\Users\Nedim\Desktop\BSS_Projekat_stari\EKGSistem\EKGSistem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nedim\Desktop\BSS_Projekat_stari\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Form1.resources
+C:\Users\Nedim\Desktop\BSS_Projekat_stari\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Properties.Resources.resources
+C:\Users\Nedim\Desktop\BSS_Projekat_stari\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nedim\Desktop\BSS_Projekat_stari\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nedim\Desktop\BSS_Projekat_Nedim\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.exe
+C:\Users\Nedim\Desktop\BSS_Projekat_Nedim\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.pdb
+C:\Users\Nedim\Desktop\BSS_Projekat_Nedim\EKGSistem\EKGSistem\bin\Debug\EKGSistem.exe
+C:\Users\Nedim\Desktop\BSS_Projekat_Nedim\EKGSistem\EKGSistem\bin\Debug\EKGSistem.pdb
+C:\Users\Nedim\Desktop\BSS_Projekat_Nedim\EKGSistem\EKGSistem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nedim\Desktop\BSS_Projekat_Nedim\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Form1.resources
+C:\Users\Nedim\Desktop\BSS_Projekat_Nedim\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Properties.Resources.resources
+C:\Users\Nedim\Desktop\BSS_Projekat_Nedim\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nedim\Desktop\BSS_Projekat_Nedim\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nedim\Desktop\BSS_Projekat_Nedim\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.About.resources
+C:\Users\User\Desktop\BSS_Projekat_Nedim(finalni)\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.exe
+C:\Users\User\Desktop\BSS_Projekat_Nedim(finalni)\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.pdb
+C:\Users\User\Desktop\BSS_Projekat_Nedim(finalni)\EKGSistem\EKGSistem\bin\Debug\EKGSistem.exe
+C:\Users\User\Desktop\BSS_Projekat_Nedim(finalni)\EKGSistem\EKGSistem\bin\Debug\EKGSistem.pdb
+C:\Users\User\Desktop\BSS_Projekat_Nedim(finalni)\EKGSistem\EKGSistem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\BSS_Projekat_Nedim(finalni)\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.About.resources
+C:\Users\User\Desktop\BSS_Projekat_Nedim(finalni)\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Form1.resources
+C:\Users\User\Desktop\BSS_Projekat_Nedim(finalni)\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Properties.Resources.resources
+C:\Users\User\Desktop\BSS_Projekat_Nedim(finalni)\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\BSS_Projekat_Nedim(finalni)\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\BSS Seminarski\BSS_Projekat_QRS\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.exe
+C:\Users\User\Desktop\BSS Seminarski\BSS_Projekat_QRS\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.pdb
+C:\Users\Nusreta\Desktop\BSS Projekat\BSS Projekat\BSS Seminarski\BSS_Projekat_QRS\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.exe
+C:\Users\Nusreta\Desktop\BSS Projekat\BSS Projekat\BSS Seminarski\BSS_Projekat_QRS\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.pdb
+C:\Users\Nusreta\Desktop\BSS Projekat\BSS Projekat\BSS Seminarski\BSS_Projekat_QRS\EKGSistem\EKGSistem\bin\Debug\EKGSistem.exe
+C:\Users\Nusreta\Desktop\BSS Projekat\BSS Projekat\BSS Seminarski\BSS_Projekat_QRS\EKGSistem\EKGSistem\bin\Debug\EKGSistem.pdb
+C:\Users\Nusreta\Desktop\BSS Projekat\BSS Projekat\BSS Seminarski\BSS_Projekat_QRS\EKGSistem\EKGSistem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nusreta\Desktop\BSS Projekat\BSS Projekat\BSS Seminarski\BSS_Projekat_QRS\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Form1.resources
+C:\Users\Nusreta\Desktop\BSS Projekat\BSS Projekat\BSS Seminarski\BSS_Projekat_QRS\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Properties.Resources.resources
+C:\Users\Nusreta\Desktop\BSS Projekat\BSS Projekat\BSS Seminarski\BSS_Projekat_QRS\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nusreta\Desktop\BSS Projekat\BSS Projekat\BSS Seminarski\BSS_Projekat_QRS\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Nusreta\Desktop\BSS-Project\BSS-ECG-Analyser\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.exe
+C:\Users\Nusreta\Desktop\BSS-Project\BSS-ECG-Analyser\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.pdb

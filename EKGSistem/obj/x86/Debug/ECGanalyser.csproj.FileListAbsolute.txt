@@ -1,0 +1,9 @@
+C:\Users\Nusreta\Desktop\BSS-Project\BSS-ECG-Analyser\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.exe
+C:\Users\Nusreta\Desktop\BSS-Project\BSS-ECG-Analyser\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.pdb
+C:\Users\Nusreta\Desktop\BSS-Project\BSS-ECG-Analyser\EKGSistem\EKGSistem\bin\Debug\EKGSistem.exe
+C:\Users\Nusreta\Desktop\BSS-Project\BSS-ECG-Analyser\EKGSistem\EKGSistem\bin\Debug\EKGSistem.pdb
+C:\Users\Nusreta\Desktop\BSS-Project\BSS-ECG-Analyser\EKGSistem\EKGSistem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Nusreta\Desktop\BSS-Project\BSS-ECG-Analyser\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Form1.resources
+C:\Users\Nusreta\Desktop\BSS-Project\BSS-ECG-Analyser\EKGSistem\EKGSistem\obj\x86\Debug\EKGSistem.Properties.Resources.resources
+C:\Users\Nusreta\Desktop\BSS-Project\BSS-ECG-Analyser\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Nusreta\Desktop\BSS-Project\BSS-ECG-Analyser\EKGSistem\EKGSistem\obj\x86\Debug\GenerateResource.write.1.tlog
